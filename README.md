@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KCPeach, also known as Peaches, or Justin.
+- 👋 Hi, I’m @KCPeach, also known as Peaches.
 - 👀 I’m interested in UX Design, Product Devlopment, Game Development and Data Analysis.
 - 🌱 I’m currently (actively) learning C# and Unity! I'm also learning Python, JS, C#, and R whenever I use them and create projects using these. 
 - 💞️ I’m looking to collaborate on Game Design! Most of my leisure projects are related to video games and sports. 
